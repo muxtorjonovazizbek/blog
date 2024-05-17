@@ -35,6 +35,11 @@ nav li a {
   font-family: Heebo;
 }
 
+a:hover {
+  color: #ff6464;
+  transition: all 0.2s ease;
+}
+
 .hero {
   height: 100vh;
   padding-top: 150px;
